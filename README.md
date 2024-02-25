@@ -15,6 +15,8 @@ The goal of this project is to develop a marketing strategy to help Codex accomp
 
   ## Data modelling
 
+   ![](DataModelling.PNG)
+
 
 
 
