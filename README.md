@@ -13,10 +13,6 @@ The goal of this project is to develop a marketing strategy to help Codex accomp
 - Expand Codex's market share in India
 - Enhance the perception of Codex energy drink among Indian consumers
 
-  ## Data modelling
-
-   ![](DataModelling.PNG)
-
 
 
 
