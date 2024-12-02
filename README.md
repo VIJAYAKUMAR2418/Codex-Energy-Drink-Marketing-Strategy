@@ -13,7 +13,7 @@ The goal of this project is to develop a marketing strategy to help Codex accomp
 - Expand Codex's market share in India
 - Enhance the perception of Codex energy drink among Indian consumers
 
-##Implementation
+## Implementation
 
 
 The implementation of this marketing strategy will be a phased approach. The first phase will focus on increasing brand awareness through social media marketing and influencer partnerships. The second phase will focus on expanding market share through e-commerce and retail distribution. The third phase will focus on enhancing brand perception through public relations and customer engagement initiatives.
